@@ -3,4 +3,8 @@ An Emacs color theme inspired by the [[https://github.com/helix-editor/helix][he
 
 This is a Work In Progress color theme. Any suggestions and/or PRs are welcome.
 
+** TODO
+- [ ] Add proper description and package for melpa.org
+
+
 [[./img/img01.png]]
