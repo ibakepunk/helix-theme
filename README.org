@@ -1,0 +1,5 @@
+* helix-theme
+An Emacs color theme inspired by the [[https://github.com/helix-editor/helix][helix-editor/helix]] default color scheme.
+This is a Work In Progress color theme. Any suggestions and/or PRs are welcome.
+
+[[./img/img01.png]]
