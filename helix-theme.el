@@ -29,12 +29,12 @@
 
 ;;; Commentary:
 
-;; An Emacs color theme inspired by the helix-editor/helix default color scheme.
+;; An Emacs color theme inspired by the helix-editor/helix default colors.
 
 ;;; Code:
 
 (deftheme helix
-  "Created 2024-06-08.")
+  "An Emacs color theme inspired by the helix-editor/helix default colors. Created 2024-06-08.")
 
 (custom-theme-set-faces
  'helix
