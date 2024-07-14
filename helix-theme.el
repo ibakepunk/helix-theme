@@ -1,10 +1,10 @@
-;;; helix-theme.el ---  An Emacs color theme inspired by the helix-editor/helix default color scheme. -*- lexical-binding:t -*-
+;;; helix-theme.el ---  Emacs color theme inspired by Helix editor's default colors
 
 ;; Copyright (c) 2024 Dmitry Osipov
 
 ;; Author: Dmitry Osipov
 ;; Version: 1.0
-;; Keywords: theme, helix, purple
+;; Keywords: faces
 ;; URL: https://github.com/ibakepunk/helix-theme
 
 ;;; License:
@@ -96,3 +96,6 @@
  '(query-replace ((t (:inherit (isearch))))))
 
 (provide-theme 'helix)
+
+;; End:
+;;; helix-theme.el ends here
