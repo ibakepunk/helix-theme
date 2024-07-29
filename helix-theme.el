@@ -95,6 +95,11 @@
  '(next-error ((t (:inherit region))))
  '(query-replace ((t (:inherit (isearch))))))
 
+;;;###autoload
+(when load-file-name
+  (add-to-list 'custom-theme-load-path
+               (file-name-as-directory (file-name-directory load-file-name))))
+
 (provide-theme 'helix)
 
 ;;; helix-theme.el ends here
