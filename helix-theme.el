@@ -40,7 +40,7 @@
  'helix
  '(default ((t (:inherit nil :extend nil :stipple nil :background "#3B224C" :foreground "#A4A0E8" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight regular :height 100 :width normal :foundry "outline"))))
  '(cursor ((t (:background "#6F44F0"))))
- '(fixed-pitch ((t (:family "Monospace"))))
+ '(fixed-pitch ((t (:family "Monospace" :foreground "#eccdba"))))
  '(variable-pitch ((((type w32)) (:foundry "outline" :family "Arial")) (t (:family "Sans Serif"))))
  '(escape-glyph ((t (:foreground "#efba5d"))))
  '(homoglyph ((t (:foreground "#efba5d"))))
