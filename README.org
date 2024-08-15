@@ -5,6 +5,10 @@ An Emacs color theme inspired by the [[https://github.com/helix-editor/helix][he
 
 This is a Work In Progress color theme. Any suggestions and/or PRs are welcome.
 
+** Overview
+1. The theme only changes colors, not fonts.
+2. No mode-specific customizations (yet).
+
 ** Installation
 1. [[https://melpa.org/#/getting-started][Add melpa.org to your package sources]]
 2. ~M-x package-install RET helix-theme~
